@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Machines on MicTech</title>
+    <link>http://localhost:1313/tags/virtual-machines/</link>
+    <description>Recent content in Virtual Machines on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 10 Aug 2024 16:43:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Cloud</title>
+      <link>http://localhost:1313/posts/microsoftcloud/</link>
+      <pubDate>Sat, 10 Aug 2024 16:43:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/microsoftcloud/</guid>
+      <description>Microsoft Cloud: bezieht sich auf eine Reihe von cloud-basierte Diensten und Lösungen, die von Microsoft entwichlt wurdeen, um Unternehmen und Einzelpersonend die Nutzung von Rechenresourrcen, Speicher,Datenanalyse, künstlicher Intelligenz und anderen Diensten über das Internet zu ermöglichen. Die wichtigste Platformen und Produkte sind Azure, Microsoft 365 und Dynamic 365.</description>
+    </item>
+  </channel>
+</rss>

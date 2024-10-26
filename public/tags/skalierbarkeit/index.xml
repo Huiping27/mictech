@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skalierbarkeit on MicTech</title>
+    <link>http://localhost:1313/tags/skalierbarkeit/</link>
+    <description>Recent content in Skalierbarkeit on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/skalierbarkeit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Cloud</title>
+      <link>http://localhost:1313/posts/hybridcloud/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hybridcloud/</guid>
+      <description>Eine Hybrid Cloud ist eine IT-Umgebung, die sowohl private als auch öffentliche Cloud-Dienste kombiniert und es ermöglicht, Workloads und Daten zwischen diesen beiden Umgebungen nahtlos zu verschieben oder zu integrieren.</description>
+    </item>
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/posts/cloudcomputing/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cloudcomputing/</guid>
+      <description>Cloud Computing bezeichnet die Bereitstellung von IT-Ressourcen (wie Rechenleistung, Speicherplatz und Anwendungen) über das Internet, statt auf lokalen Servern oder Computern.</description>
+    </item>
+    <item>
+      <title>Moderne Virtualisierung</title>
+      <link>http://localhost:1313/posts/modernevirtualisierung/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modernevirtualisierung/</guid>
+      <description>Die moderne Virtualisierung hat sich weit über traditionelle VM-basierte Ansätze hinausentwickelt. Sie umfasst nun Container, Cloud-Technologien und fortschrittliche Netzwerklösungen, um den Anforderungen moderner, skalierbarer und sicherer IT-Umgebungen gerecht zu werden.</description>
+    </item>
+  </channel>
+</rss>

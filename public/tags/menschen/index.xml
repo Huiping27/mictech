@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menschen on MicTech</title>
+    <link>http://localhost:1313/tags/menschen/</link>
+    <description>Recent content in Menschen on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/menschen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein Framework basierend auf IT: Das Harold-Leavitt Modell</title>
+      <link>http://localhost:1313/posts/das-harold-leavitt-modell/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/das-harold-leavitt-modell/</guid>
+      <description>Das Harold-Leavitt Modell, auch bekannt als das &amp;ldquo;Leavitt’s Diamond&amp;rdquo; oder &amp;ldquo;Organizational Change Model&amp;rdquo;, ist ein Rahmenwerk zur Analyse von Organisationen und deren Transformation, insbesondere in Bezug auf den Einfluss von Informationstechnologie (IT).</description>
+    </item>
+  </channel>
+</rss>

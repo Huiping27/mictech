@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verschlusselung on MicTech</title>
+    <link>http://localhost:1313/tags/verschlusselung/</link>
+    <description>Recent content in Verschlusselung on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/verschlusselung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT Sicherheit und Datenschutz</title>
+      <link>http://localhost:1313/posts/it-sicherheit/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/it-sicherheit/</guid>
+      <description>IT-Sicherheit IT-Sicherheit (Informationssicherheit) bezieht sich auf den Schutz von Informationen und IT-Systemen vor Bedrohungen wie unbefugtem Zugriff, Datenverlust oder -diebstahl, und anderen Cyberangriffen.</description>
+    </item>
+  </channel>
+</rss>

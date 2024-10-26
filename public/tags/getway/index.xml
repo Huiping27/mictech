@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getway on MicTech</title>
+    <link>http://localhost:1313/tags/getway/</link>
+    <description>Recent content in Getway on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/getway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>das Linux Betriebsystem</title>
+      <link>http://localhost:1313/posts/linux-betriebssystem/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux-betriebssystem/</guid>
+      <description>Das Linux-Betriebssystem ist eine Open-Source-Software, was bedeutet, dass der Quellcode frei einsehbar, modifizierbar und verteilbar ist, um die Zusammenarbeit und Entwicklungsbemühungen der Community zu fördern.</description>
+    </item>
+  </channel>
+</rss>

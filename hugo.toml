@@ -1,0 +1,12 @@
+
+baseURL = 'http://localhost:50542/'
+languageCode = 'de-DE'
+title = 'MicTech'
+theme = 'beautifulhugo'
+
+[params]
+  description = "A brief description of your Hugo site."
+  author = { name = "admin" }  # Properly structured author parameter
+  googleAnalytics = "UA-XXXXXXXXX-Y"  # Optional
+
+

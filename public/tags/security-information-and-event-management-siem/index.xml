@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Information and Event Management (SIEM) on MicTech</title>
+    <link>http://localhost:1313/tags/security-information-and-event-management-siem/</link>
+    <description>Recent content in Security Information and Event Management (SIEM) on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security-information-and-event-management-siem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Komponenten der Netzwerksicherheit</title>
+      <link>http://localhost:1313/posts/komponenten-der-netzwerksicherheit/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/komponenten-der-netzwerksicherheit/</guid>
+      <description>Netzwerksicherheit umfasst mehrere Schutzschichten sowohl am Rand als auch im Netzwerk selbst, wobei jede Schicht Richtlinien und Kontrollen implementiert, die nur autorisierten Benutzern den Zugriff auf Netzwerkressourcen ermöglichen und böswillige Akteure fernhalten.</description>
+    </item>
+  </channel>
+</rss>

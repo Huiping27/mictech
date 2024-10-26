@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on MicTech</title>
+    <link>http://localhost:1313/tags/installation/</link>
+    <description>Recent content in Installation on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 18 Jul 2024 22:30:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Installation</title>
+      <link>http://localhost:1313/posts/softwareinstallation/</link>
+      <pubDate>Thu, 18 Jul 2024 22:30:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/softwareinstallation/</guid>
+      <description>Die Installation, Konfiguration und Verwaltung von Software macht einen großen Teil der Arbeit der meisten Systemadministratoren aus</description>
+    </item>
+    <item>
+      <title>Verwaltung Lokal Windows Server Infrastruktur</title>
+      <link>http://localhost:1313/posts/verwaltung-sever/</link>
+      <pubDate>Wed, 10 Jul 2024 22:30:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/verwaltung-sever/</guid>
+      <description>Sicherstellung der Stabilität, Sicherheit und Leistungsfähigkeit der lokalen Windows Server-Infrastruktur.</description>
+    </item>
+    <item>
+      <title>DHCP Server Installation und Konfiguration</title>
+      <link>http://localhost:1313/posts/dhcpserver/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dhcpserver/</guid>
+      <description>Die Installation und Konfiguration eines DHCP- Server(Dynamic Host Configuration Protocol) ist entscheidend, um in eineme Netzwek die IP-Adressen autmoatisch an Clients zu vergeben. DHCP vereinfacht das Management IP-Adressen, da es die manuelle Zuweisung von IP-Adressen für Geräte in einem Netzwek automatisieirt. Im Folgenden wird erklärt, wie man einen DHCP- Server unter Linux und Windows Server installiert und kongiguriert.</description>
+    </item>
+  </channel>
+</rss>

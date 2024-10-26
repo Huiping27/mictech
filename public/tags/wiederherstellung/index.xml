@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiederherstellung on MicTech</title>
+    <link>http://localhost:1313/tags/wiederherstellung/</link>
+    <description>Recent content in Wiederherstellung on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wiederherstellung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration Management(Konfigurationsmanagement)</title>
+      <link>http://localhost:1313/posts/configuration-management-konfigurationsmanagement/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/configuration-management-konfigurationsmanagement/</guid>
+      <description>Configuration Management (Konfigurationsmanagement) ist ein Prozess in der IT und Softwareentwicklung, der sicherstellt, dass Systeme und Software konsistent und korrekt konfiguriert sind. Es ermöglicht die zentrale Verwaltung, Überwachung und Pflege von Hard- und Softwareeinstellungen, um Änderungen nachzuvollziehen, Fehler zu vermeiden und die Stabilität der IT-Infrastruktur zu gewährleisten.</description>
+    </item>
+  </channel>
+</rss>

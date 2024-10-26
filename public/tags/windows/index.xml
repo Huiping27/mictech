@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on MicTech</title>
+    <link>http://localhost:1313/tags/windows/</link>
+    <description>Recent content in Windows on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server</title>
+      <link>http://localhost:1313/posts/server/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/server/</guid>
+      <description>Ein Server ist ein Computer oder ein System, das Ressourcen, Daten, Dienste oder Programme für andere Computer, sogenannte Clients, bereitstellt.</description>
+    </item>
+    <item>
+      <title>wichtige Komponente der IT-Infrastruktur</title>
+      <link>http://localhost:1313/posts/wichtige-komponenten-der-it-infrastruktur/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wichtige-komponenten-der-it-infrastruktur/</guid>
+      <description>einige wichtige Komponenten der IT-Infrastruktur: Hardware,Software,Netzwerke, Cloud-Dienste und Virtualisierung, Betriebsystem</description>
+    </item>
+    <item>
+      <title>Sicherheits in Betriebssystem</title>
+      <link>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</guid>
+      <description>Die Sicherheit des Betriebssystems steht im Zentrum der gesamten Cybersicherheit und bildet eine der drei Säulen. Das Verständnis ihrer Prinzipien ist entscheidend für die Erstellung und Aufrechterhaltung sicherer Systeme.</description>
+    </item>
+    <item>
+      <title>Hypervisoren, VM Monitor</title>
+      <link>http://localhost:1313/posts/hypervisoren/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hypervisoren/</guid>
+      <description>Ein Hypervisor (auch als Virtual Machine Monitor, VMM bekannt) ist eine Art Software, Firmware oder Hardware, die es ermöglicht, virtuelle Maschinen (VMs) zu erstellen und auszuführen. Der Hypervisor erlaubt es mehreren Betriebssystemen, die Hardware-Ressourcen eines physischen Computers zu teilen, wobei jedes Betriebssystem als isolierte VM ausgeführt wird.</description>
+    </item>
+    <item>
+      <title>DHCP Server Installation und Konfiguration</title>
+      <link>http://localhost:1313/posts/dhcpserver/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dhcpserver/</guid>
+      <description>Die Installation und Konfiguration eines DHCP- Server(Dynamic Host Configuration Protocol) ist entscheidend, um in eineme Netzwek die IP-Adressen autmoatisch an Clients zu vergeben. DHCP vereinfacht das Management IP-Adressen, da es die manuelle Zuweisung von IP-Adressen für Geräte in einem Netzwek automatisieirt. Im Folgenden wird erklärt, wie man einen DHCP- Server unter Linux und Windows Server installiert und kongiguriert.</description>
+    </item>
+  </channel>
+</rss>

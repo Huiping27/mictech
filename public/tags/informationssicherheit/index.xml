@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informationssicherheit on MicTech</title>
+    <link>http://localhost:1313/tags/informationssicherheit/</link>
+    <description>Recent content in Informationssicherheit on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/informationssicherheit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISO Norm 27001</title>
+      <link>http://localhost:1313/posts/iso/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/iso/</guid>
+      <description>ISO-Norm 27001 zählt zu den bekanntesten und aus Sicht von Informationssicherheit sichtlich wichtigsten Standards.</description>
+    </item>
+    <item>
+      <title>ISO/IEC 20000 definiert spezifische Anforderungen für IT-Service-Management-Systeme (ITSMS)</title>
+      <link>http://localhost:1313/posts/iso20000/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/iso20000/</guid>
+      <description>Die ISO/IEC 20000-Zertifizierung hilft Unternehmen, international bewährte IT-Service-Management-Prozesse umzusetzen, was sowohl die IT-Leistung als auch die Kundenzufriedenheit deutlich steigern kann.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hypervisoren on MicTech</title>
+    <link>http://localhost:1313/tags/hypervisoren/</link>
+    <description>Recent content in Hypervisoren on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hypervisoren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hypervisoren, VM Monitor</title>
+      <link>http://localhost:1313/posts/hypervisoren/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hypervisoren/</guid>
+      <description>Ein Hypervisor (auch als Virtual Machine Monitor, VMM bekannt) ist eine Art Software, Firmware oder Hardware, die es ermöglicht, virtuelle Maschinen (VMs) zu erstellen und auszuführen. Der Hypervisor erlaubt es mehreren Betriebssystemen, die Hardware-Ressourcen eines physischen Computers zu teilen, wobei jedes Betriebssystem als isolierte VM ausgeführt wird.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on MicTech</title>
+    <link>http://localhost:1313/tags/performance/</link>
+    <description>Recent content in Performance on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access Control Lists ACLs</title>
+      <link>http://localhost:1313/posts/acls/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/acls/</guid>
+      <description>Access Control Lists (ACLs) sind Datenstrukturen, die festlegen, welche Benutzer oder Systeme Zugriff auf bestimmte Ressourcen haben und welche Arten von Zugriff ihnen gestattet sind. Sie ermöglichen eine detaillierte Kontrolle über den Zugriff und die Berechtigungen in einem IT-System.</description>
+    </item>
+  </channel>
+</rss>

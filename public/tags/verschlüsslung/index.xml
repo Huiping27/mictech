@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verschlüsslung on MicTech</title>
+    <link>http://localhost:1313/tags/verschl%C3%BCsslung/</link>
+    <description>Recent content in Verschlüsslung on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/verschl%C3%BCsslung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Komponenten der Netzwerksicherheit</title>
+      <link>http://localhost:1313/posts/komponenten-der-netzwerksicherheit/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/komponenten-der-netzwerksicherheit/</guid>
+      <description>Netzwerksicherheit umfasst mehrere Schutzschichten sowohl am Rand als auch im Netzwerk selbst, wobei jede Schicht Richtlinien und Kontrollen implementiert, die nur autorisierten Benutzern den Zugriff auf Netzwerkressourcen ermöglichen und böswillige Akteure fernhalten.</description>
+    </item>
+    <item>
+      <title>Netzwerkprotokolle</title>
+      <link>http://localhost:1313/posts/netzwerkprotokolle/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/netzwerkprotokolle/</guid>
+      <description>Netzwerkprotokolle sind Regeln, die dazu entwickelt wurden, die Datenkommunikation zwischen Computern und Geräten in einem Netzwerk zu erleichtern und eine reibungslose Zustellung der Datenpakete vom Sender zum Empfänger zu gewährleisten. Das Verständnis von Netzwerkprotokollen und deren Sicherheitsanfälligkeiten ist ein entscheidender Teil der Netzwerksicherheit.</description>
+    </item>
+    <item>
+      <title>Sicherheits in Betriebssystem</title>
+      <link>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</guid>
+      <description>Die Sicherheit des Betriebssystems steht im Zentrum der gesamten Cybersicherheit und bildet eine der drei Säulen. Das Verständnis ihrer Prinzipien ist entscheidend für die Erstellung und Aufrechterhaltung sicherer Systeme.</description>
+    </item>
+  </channel>
+</rss>

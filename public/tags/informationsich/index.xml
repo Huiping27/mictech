@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informationsich on MicTech</title>
+    <link>hhttp://localhost:1314/tags/informationsich/</link>
+    <description>Recent content in Informationsich on MicTech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2024 12:28:16 +0200</lastBuildDate>
+    <atom:link href="hhttp://localhost:1314/tags/informationsich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISO</title>
+      <link>hhttp://localhost:1314/posts/iso/</link>
+      <pubDate>Thu, 17 Oct 2024 12:28:16 +0200</pubDate>
+      <guid>hhttp://localhost:1314/posts/iso/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;ISO-Norm 27001 zählt zu den bekanntesten und aus Sicht von Informationssicherheit sichtlich wichtigsten Standards.&lt;/p&gt;&#xA;&lt;h2 id=&#34;main-content&#34;&gt;Main Content&lt;/h2&gt;&#xA;&lt;p&gt;ISO-Norm 270001 ermöglicht es Organisationen, sich durch Audits zertifizieren zu lassen. Damit ist die ISO 27001 der eintigen internationale audierbare Standard, der Anforderungen an ein ISMS definiert.&lt;/p&gt;&#xA;&lt;p&gt;Zur Sicherstellung einer anforderungsgerechten Cybersecurity sind in der Richtlinie vierzehn Maßnahme benannt. Dazu gehören:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Richtlinien für Risiken und Informationssicherheit.&lt;/li&gt;&#xA;&lt;li&gt;Prävention, Detektion und Bewältigung von Cyber Incidents.&lt;/li&gt;&#xA;&lt;li&gt;BCM mit Backup Management und Krisenmanagement.&lt;/li&gt;&#xA;&lt;li&gt;Sicherheit in dier Lieferketten bis zur sicheren Entwicklung bei Zuleiferern.&lt;/li&gt;&#xA;&lt;li&gt;Vorgaben zur Messung von Cyber und Risiomaßnahme.&lt;/li&gt;&#xA;&lt;li&gt;Vorgaben für Kryptografie und, wo möglich, Verschlüsselung.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Im Mittelpunkt der ISO7IEC 27001 steht das Verständnis von Informationssicherheit als geplanter, gelebter, überwachter und sich kontinuerliche  verbessernder Prozess. Hierzu gehören die folgenden Bereiche:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

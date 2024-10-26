@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bereitstellung on MicTech</title>
+    <link>http://localhost:1313/tags/bereitstellung/</link>
+    <description>Recent content in Bereitstellung on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bereitstellung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamics 365 Business</title>
+      <link>http://localhost:1313/posts/dynamics365business/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dynamics365business/</guid>
+      <description>Dynamics 365 Business ist ist eine umfassende Unternehmensressourcenplanung (ERP)-Lösung von Microsoft, die speziell für kleine und mittelständische Unternehmen entwickelt wurde.</description>
+    </item>
+    <item>
+      <title>Gestaltung von Informationssystem</title>
+      <link>http://localhost:1313/posts/artenvontechnologien/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/artenvontechnologien/</guid>
+      <description>Jede Systemart hat spezifische Anwendungsfälle und ist für unterschiedliche Geschäftsanforderungen und Technologien geeignet.</description>
+    </item>
+    <item>
+      <title>Gestaltung von Informationssystem</title>
+      <link>http://localhost:1313/posts/gestaltunginformationssystem/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gestaltunginformationssystem/</guid>
+      <description>Es gibt kein einziges richtiges Modell für die Gestaltung eines Informationssystems, aber Manager sollten ein konzeptionelles Modell verwenden, um Entscheidungen zu treffen.</description>
+    </item>
+  </channel>
+</rss>

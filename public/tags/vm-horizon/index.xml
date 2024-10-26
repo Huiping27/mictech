@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VM Horizon on MicTech</title>
+    <link>http://localhost:1313/tags/vm-horizon/</link>
+    <description>Recent content in VM Horizon on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vm-horizon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moderne Virtualisierung</title>
+      <link>http://localhost:1313/posts/modernevirtualisierung/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modernevirtualisierung/</guid>
+      <description>Die moderne Virtualisierung hat sich weit über traditionelle VM-basierte Ansätze hinausentwickelt. Sie umfasst nun Container, Cloud-Technologien und fortschrittliche Netzwerklösungen, um den Anforderungen moderner, skalierbarer und sicherer IT-Umgebungen gerecht zu werden.</description>
+    </item>
+  </channel>
+</rss>

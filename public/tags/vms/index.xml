@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMs on MicTech</title>
+    <link>http://localhost:1313/tags/vms/</link>
+    <description>Recent content in VMs on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moderne Virtualisierung</title>
+      <link>http://localhost:1313/posts/modernevirtualisierung/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modernevirtualisierung/</guid>
+      <description>Die moderne Virtualisierung hat sich weit über traditionelle VM-basierte Ansätze hinausentwickelt. Sie umfasst nun Container, Cloud-Technologien und fortschrittliche Netzwerklösungen, um den Anforderungen moderner, skalierbarer und sicherer IT-Umgebungen gerecht zu werden.</description>
+    </item>
+    <item>
+      <title>Automatisierung</title>
+      <link>http://localhost:1313/posts/automatisierung/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/automatisierung/</guid>
+      <description>IT-Automatisierung bezieht sich auf den Einsatz von Software, Skripten und Tools, um wiederkehrende IT-Prozesse und -Aufgaben ohne oder mit minimalem menschlichen Eingriff durchzuführen. Ziel ist es, die Effizienz, Zuverlässigkeit und Konsistenz von IT-Diensten zu verbessern und manuelle Fehler zu reduzieren.</description>
+    </item>
+  </channel>
+</rss>

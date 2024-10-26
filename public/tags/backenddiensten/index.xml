@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backenddiensten on MicTech</title>
+    <link>http://localhost:1313/tags/backenddiensten/</link>
+    <description>Recent content in Backenddiensten on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/backenddiensten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein API-Gateway ist ein Server oder Softwarekomponente, die als Vermittler zwischen Clients (wie Web- oder Mobilanwendungen) und Backend-Diensten fungiert.</title>
+      <link>http://localhost:1313/-apigateway/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/-apigateway/</guid>
+      <description>Ein API-Gateway ist ein Server oder Softwarekomponente, die als Vermittler zwischen Clients (wie Web- oder Mobilanwendungen) und Backend-Diensten fungiert. Es verwaltet, leitet und verarbeitet Anfragen, die von Clients an verschiedene Mikroservices oder APIs innerhalb eines Systems gestellt werden. Das API-Gateway hilft, die Kommunikation zu optimieren, Lastverteilung, Authentifizierung, Sicherheit und Ratenbegrenzung zu handhaben und transformiert oder aggregiert oft Daten aus mehreren Quellen, bevor sie an den Client geliefert werden.</description>
+    </item>
+    <item>
+      <title>Ein API-Gateway ist ein Server oder Softwarekomponente, die als Vermittler zwischen Clients (wie Web- oder Mobilanwendungen) und Backend-Diensten fungiert.</title>
+      <link>http://localhost:1313/posts/apigateway/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/apigateway/</guid>
+      <description>Ein API-Gateway ist ein Server oder Softwarekomponente, die als Vermittler zwischen Clients (wie Web- oder Mobilanwendungen) und Backend-Diensten fungiert. Es verwaltet, leitet und verarbeitet Anfragen, die von Clients an verschiedene Mikroservices oder APIs innerhalb eines Systems gestellt werden. Das API-Gateway hilft, die Kommunikation zu optimieren, Lastverteilung, Authentifizierung, Sicherheit und Ratenbegrenzung zu handhaben und transformiert oder aggregiert oft Daten aus mehreren Quellen, bevor sie an den Client geliefert werden.</description>
+    </item>
+  </channel>
+</rss>

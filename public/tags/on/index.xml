@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On on MicTech</title>
+    <link>http://localhost:1313/tags/on/</link>
+    <description>Recent content in On on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/tags/on/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Cloud VS On Premises Infrastruktur VS Public Cloud</title>
+      <link>http://localhost:1313/posts/hybridcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hybridcloud/</guid>
+      <description>Wenn es darum geht, zwischen der Microsoft Hybrid Cloud, On-Premises und Public Cloud für Ihre IT-Infrastruktur zu wählen, ist es wichtig, die wesentlichen Unterschiede in Bezug auf Kosten, Flexibilität, Sicherheit und Skalierbarkeit zu verstehen.</description>
+    </item>
+  </channel>
+</rss>

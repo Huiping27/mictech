@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud-Speicher on MicTech</title>
+    <link>http://localhost:1313/tags/cloud-speicher/</link>
+    <description>Recent content in Cloud-Speicher on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloud-speicher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft 365 Cloud</title>
+      <link>http://localhost:1313/posts/miscrosoft365cloud/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/miscrosoft365cloud/</guid>
+      <description>Microsoft 365 Cloud ist ein Abonnement-basierter Dienst von Microsoft, der eine Vielzahl von Anwendungen und Diensten für Produktivität, Kommunikation und Zusammenarbeit bietet.</description>
+    </item>
+  </channel>
+</rss>

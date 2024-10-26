@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netzwerken on MicTech</title>
+    <link>http://localhost:1313/tags/netzwerken/</link>
+    <description>Recent content in Netzwerken on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/netzwerken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>die T-Form-Organisation</title>
+      <link>http://localhost:1313/posts/t-form-organisation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/t-form-organisation/</guid>
+      <description>Manager delegieren Aufgaben und Entscheidungsfindungen an niedrigere Managementebenen, und Informationssysteme stellen Daten auf der jeweiligen Managementebene bereit, auf der Entscheidungen getroffen werden müssen.</description>
+    </item>
+  </channel>
+</rss>

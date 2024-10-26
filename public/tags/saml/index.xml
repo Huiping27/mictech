@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAML on MicTech</title>
+    <link>http://localhost:1313/tags/saml/</link>
+    <description>Recent content in SAML on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/saml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSO-Single Sign On</title>
+      <link>http://localhost:1313/posts/singlesign-on-sso/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/singlesign-on-sso/</guid>
+      <description>Single Sign-On (SSO), auf Deutsch Einmalanmeldung, ist eine Authentifizierungsmethode, bei der ein Benutzer sich nur einmal anmelden muss, um auf mehrere verschiedene Systeme oder Anwendungen zugreifen zu können, ohne sich erneut einloggen zu müssen. Dabei werden die Anmeldedaten sicher zwischen den Systemen geteilt.</description>
+    </item>
+  </channel>
+</rss>

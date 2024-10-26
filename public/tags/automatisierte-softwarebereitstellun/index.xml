@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatisierte Softwarebereitstellun on MicTech</title>
+    <link>http://localhost:1313/tags/automatisierte-softwarebereitstellun/</link>
+    <description>Recent content in Automatisierte Softwarebereitstellun on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/automatisierte-softwarebereitstellun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatisierung</title>
+      <link>http://localhost:1313/posts/automatisierung/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/automatisierung/</guid>
+      <description>IT-Automatisierung bezieht sich auf den Einsatz von Software, Skripten und Tools, um wiederkehrende IT-Prozesse und -Aufgaben ohne oder mit minimalem menschlichen Eingriff durchzuführen. Ziel ist es, die Effizienz, Zuverlässigkeit und Konsistenz von IT-Diensten zu verbessern und manuelle Fehler zu reduzieren.</description>
+    </item>
+  </channel>
+</rss>

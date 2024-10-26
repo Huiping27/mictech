@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOS on MicTech</title>
+    <link>http://localhost:1313/tags/macos/</link>
+    <description>Recent content in MacOS on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wichtige Komponente der IT-Infrastruktur</title>
+      <link>http://localhost:1313/posts/wichtige-komponenten-der-it-infrastruktur/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wichtige-komponenten-der-it-infrastruktur/</guid>
+      <description>einige wichtige Komponenten der IT-Infrastruktur: Hardware,Software,Netzwerke, Cloud-Dienste und Virtualisierung, Betriebsystem</description>
+    </item>
+    <item>
+      <title>Sicherheits in Betriebssystem</title>
+      <link>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sicherheitsmechanismeninbetriebssystem/</guid>
+      <description>Die Sicherheit des Betriebssystems steht im Zentrum der gesamten Cybersicherheit und bildet eine der drei Säulen. Das Verständnis ihrer Prinzipien ist entscheidend für die Erstellung und Aufrechterhaltung sicherer Systeme.</description>
+    </item>
+  </channel>
+</rss>

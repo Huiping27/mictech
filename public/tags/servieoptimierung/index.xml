@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servieoptimierung on MicTech</title>
+    <link>http://localhost:1313/tags/servieoptimierung/</link>
+    <description>Recent content in Servieoptimierung on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/servieoptimierung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kundenbeziehungsmanagement (CRM)</title>
+      <link>http://localhost:1313/posts/crm/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crm/</guid>
+      <description>Kundenbeziehungsmanagement (CRM) ist ein Ansatz, den Unternehmen verwenden, um langfristige und wertvolle Beziehungen zu ihren Kunden aufzubauen und zu pflegen.</description>
+    </item>
+  </channel>
+</rss>

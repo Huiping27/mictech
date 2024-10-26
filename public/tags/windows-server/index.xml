@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Server on MicTech</title>
+    <link>http://localhost:1313/tags/windows-server/</link>
+    <description>Recent content in Windows Server on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 17 Oct 2024 16:43:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/windows-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netzwerk</title>
+      <link>http://localhost:1313/posts/netzwerk/</link>
+      <pubDate>Thu, 17 Oct 2024 16:43:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/netzwerk/</guid>
+      <description>&lt;h5 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h5&gt;&#xA;&lt;p&gt;In diesem Beitrag werde ich die Rolle von &lt;strong&gt;Windows Server&lt;/strong&gt; und die Grundlagen der &lt;strong&gt;Netzwerktechnik&lt;/strong&gt; beleuchten. Diese beiden Themen sind entscheidend für die Verwaltung und Sicherheit moderner IT-Infrastrukturen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

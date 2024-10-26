@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ITIL  on MicTech</title>
+    <link>http://localhost:1313/tags/itil-/</link>
+    <description>Recent content in ITIL  on MicTech</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/itil-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ITIL Library</title>
+      <link>http://localhost:1313/posts/itil/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/itil/</guid>
+      <description>Die IT Infrastructure Library (ITIL) ist ein weit verbreitetes Framework für das IT-Service-Management (ITSM), das bewährte Verfahren für die Bereitstellung, Verwaltung und kontinuierliche Verbesserung von IT-Services in Unternehmen beschreibt. ITIL bietet eine strukturierte Vorgehensweise, um sicherzustellen, dass IT-Services die Geschäftsanforderungen erfüllen, effizient bereitgestellt werden und kontinuierlich optimiert werden.</description>
+    </item>
+  </channel>
+</rss>
